@@ -8,7 +8,7 @@ Summary:	Create JUnit XML test result documents that can be read by tools such a
 Summary(pl.UTF-8):	Tworzenie dokumentów wynikowych testów jako JUnit XML do odczytu przez np. Jenkinsa
 Name:		python-junit-xml
 Version:	1.9
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/junit-xml/
